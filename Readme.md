@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to validate entered cell values on the server in batch edit mode
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t170018/)**
+**[[Run Online]](https://codecentral.devexpress.com/128532890/)**
 <!-- run online end -->
 
 This example demonstrates how to pass an editor's value to the server in batch edit mode, validate the value based on a condition, and pass the validation result to the client.

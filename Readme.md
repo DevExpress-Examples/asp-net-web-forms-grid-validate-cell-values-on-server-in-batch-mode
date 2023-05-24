@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # ASPxGridView - Batch Edit - How to validate the entered cell value on the server side
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t170018/)**
+**[[Run Online]](https://codecentral.devexpress.com/128532890/)**
 <!-- run online end -->
 
 
